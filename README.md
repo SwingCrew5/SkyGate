@@ -1,9 +1,6 @@
-G5Framework
+SkyGate
 ===========
 
-Web boilerplate stack (HTML5, CSS3, jQuery, and PHP). 
+A new type of dooe bell.
 
-G5Framework provides some rock-solid code and functionality for you to start with, however it leaves all the remaining development and styling up to the developer.
-
-
-http://G5Framework.com
+Useing respberry-pi and G5Framework, main function of front end is in the mainfunction.js. 
